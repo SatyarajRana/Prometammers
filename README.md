@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @SatyarajRana
-- 👀 I’m interested in anything related to Software Dev and problem solving.
-- 🌱 I’m currently learning Web Development and GameDev in Godot engine.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Pomodoro assistant
 
-<!---
-SatyarajRana/SatyarajRana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Project description:
+ This pomodoro assistant is your one stop solution to focus more on the selected task and to kill your distraction using the scientifically proven pomodoro technique. Music and distraction notes being extra helpful features.
+ 
+Installations:
+After clicking on the pomodoro button in the parent website you will be directed to this site.
+Login to Spotify to enjoy the entire playlist as you build your focus .
+
+Directions to use the project:
+
+1)select a particular task from the parent website
+
+2)start the pomodoro timer which will be of 25 minutes after completing it you will have a break of 5 minutes.
+
+3)This site is enriched with Spotify focus playlists to make you more productive and consistent.Its upto the users wish if he want music or not.
+
+4) we tend to get distracted often by random thoughts and our surroundings. To encounter that we have a distraction notes so that you can note down the things which distract you during work times and come back to it later on breaks.
+5)Click on the "+" to add a note and to delete it double click and press yes on the alert message that is being displayed.
+
+Credits:
+1)https://youtu.be/vAEG6OVCass
+2)https://youtu.be/Efo7nIUF2JY
+
+Hope you guys love our app...
+Made with 💖 by Prometammers for syntax error.
