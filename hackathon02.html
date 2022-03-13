@@ -4,69 +4,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>           </title>
-    
+
 </head>
 <body>
-   
+
 <header>
     <h1>
     TO DO LIST
     </h1>
-    <form action="">
-<input type="text" id="new task input" placeholder="What do you have plan">
+    <form action="" id="form">
+<input type="text" id="new_task_input" placeholder="What do you have plan" autocomplete="off">
 
 <input type="submit"  id="Add task" value="add task">
     </form>
 </header>
 <main>
-    <section class="list">
+    <section id="list">
         <h2>Tasks</h2>
         <div class="tasks">
-            <div class="content">
-                <input type="text" class="text" value="My shiny task" >
-            </div>
-            <div class="action">
-                <button class="edit">Edit</button>
-                <button class="delete">Delete</button>
 
-            </div>
-        </div>
-
-        <div class="tasks">
-            <div class="content">
-                <input type="text" class="text" value="My shiny task" >
-            </div>
-            <div class="action">
-                <button class="edit">Edit</button>
-                <button class="delete">Delete</button>
-
-            </div>
-        </div>
-        <div class="tasks">
-            <div class="content">
-                <input type="text" class="text" value="My shiny task" >
-            </div>
-            <div class="action">
-                <button class="edit">Edit</button>
-                <button class="delete">Delete</button>
-
-            </div>
-        </div>
-        <div class="tasks">
-            <div class="content">
-                <input type="text" class="text" value="My shiny task" >
-            </div>
-            <div class="action">
-                <button class="edit">Edit</button>
-                <button class="delete">Delete</button>
-
-            </div>
+          <!-- <div class="task">
+              <div class="content">
+                  <input type="text" class="text" placeholder="task" >
+              </div>
+              <div class="action">
+                  <button class="edit">Edit</button>
+                  <button class="delete">Delete</button>
+                  <button class = "delete" type="button" name="button">Pomodoro</button>
+              </div>
+          </div> -->
         </div>
 
     </section>
 </main>
 
-<script></script>
+<script src="index.js" charset="utf-8"></script>
 </body>
 </html>
